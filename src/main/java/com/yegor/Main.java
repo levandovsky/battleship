@@ -54,7 +54,7 @@ public class Main {
                 pc.drawToEnemy(pc);
             } catch (InputMismatchException e) {
                 System.out.println("Input error, all input values should be integers!");
-                //TODO: Loop restart after missmatch exception was caught
+                //TODO: Loop restart after mismatch exception was caught
             }
         }
     }
