@@ -3,10 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="06b38f04-0bb6-48df-a794-f6affade3f79" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/META-INF/yegor.com.Battleship.main.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/yegor/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/yegor/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/yegor/Ship.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/yegor/IBoard.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -159,7 +155,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558700174612" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558700351156" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -247,7 +243,7 @@
       <workItem from="1553506582671" duration="1582000" />
       <workItem from="1553510865535" duration="1107000" />
       <workItem from="1553512126345" duration="2690000" />
-      <workItem from="1558699498762" duration="551000" />
+      <workItem from="1558699498762" duration="841000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1553511687244</created>
@@ -281,7 +277,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="65235000" />
+    <option name="totallyTimeSpent" value="65525000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
